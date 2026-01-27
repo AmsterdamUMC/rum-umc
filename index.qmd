@@ -2,7 +2,7 @@
 about: 
   id: hero
   template: solana
-  image: assets/img/logo.png
+  image: assets/img/aumc.png #logo.png
   image-shape: rounded
   links: 
     - text: GitHub
@@ -17,7 +17,7 @@ listing:
 ---
 
 ::: {#hero}
-<i class="nf nf-md-duck"></i> Welcome to our programming cafe. We do some cool stuff here.
+<i class="nf nf-md-duck"></i> Welcome to our AUMC programming cafe. We do some cool stuff here.
 :::
 
 ## <i class="nf nf-md-calendar"></i> Next event {style="border-bottom: none;"}
