@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "meetups/index.html",
+    "href": "meetups/index.html",
+    "title": "meetups",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n      \n        location\n      \n      \n        presenter\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        time\n      \n      \n        File Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nlocation\n\n\n\npresenter\n\n\n\nDate\n\n\n\ntime\n\n\n\nFile Name\n\n\n\n\n\n\n\n\nEveryday Git Part 2 at AUMC\n\n\nSome more tips and tricks for using git.\n\n\nAUMC\n\n\nFerdinand van den Toorn\n\n\nFeb 11, 2026\n\n\nTBD\n\n\nexample-event.ics\n\n\n\n\n\n\nEveryday Git\n\n\nSome tips and tricks for using git at AUMC.\n\n\nAUMC\n\n\nThomas\n\n\nFeb 10, 2025\n\n\nTBD\n\n\nexample-event.ics\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "We are a programming cafe based in Amsterdam UMC, part of a larger network of programming cafes.\nJoin us by…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amsterdam UMC R user meeting",
+    "section": "",
+    "text": "GitHub\n  \n\n      \n Welcome to our AUMC programming cafe. We do some cool stuff here."
+  },
+  {
+    "objectID": "index.html#next-event",
+    "href": "index.html#next-event",
+    "title": "Amsterdam UMC R user meeting",
+    "section": " Next event",
+    "text": "Next event\n\n\n\n\n  Everyday Git Part 2 at AUMC\n  Some more tips and tricks for using git.\n  \n            \n                Date: Feb 11, 2026\n            \n            \n                Time: TBD\n            \n            \n            \n                Place: AUMC\n            \n            \n            \n            \n                Presenter: Ferdinand van den Toorn\n            \n            \n            \n            \n                Register: https://eventbrite.com\n            \n            \n  \n  \n        Add to calendar\n  \n\n\n\nNo matching items"
+  }
+]
