@@ -1,7 +1,7 @@
 project: 
   type: website
 
-title: "Amsterdam UMC R user meeting" # change me
+title: "R User Meet Amsterdam UMC" # change me
 theme: code-cafe.scss
 
 website: 
