@@ -17,7 +17,7 @@ listing:
 ---
 
 ::: {#hero}
-<i class="nf nf-md-duck"></i> Welcome to our AUMC programming cafe. We do some cool stuff here.
+Welcome to our webpage! This programming café brings together R enthusiasts from across Amsterdam UMC. 
 :::
 
 ## <i class="nf nf-md-calendar"></i> Next event {style="border-bottom: none;"}
