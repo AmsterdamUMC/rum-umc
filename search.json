@@ -2,29 +2,29 @@
   {
     "objectID": "meetups/index.html",
     "href": "meetups/index.html",
-    "title": "meetups",
+    "title": "Meet-ups",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n      \n        location\n      \n      \n        presenter\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        time\n      \n      \n        File Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nlocation\n\n\n\npresenter\n\n\n\nDate\n\n\n\ntime\n\n\n\nFile Name\n\n\n\n\n\n\n\n\nEveryday Git Part 2 at AUMC\n\n\nSome more tips and tricks for using git.\n\n\nAUMC\n\n\nFerdinand van den Toorn\n\n\nFeb 11, 2026\n\n\nTBD\n\n\nexample-event.ics\n\n\n\n\n\n\nEveryday Git\n\n\nSome tips and tricks for using git at AUMC.\n\n\nAUMC\n\n\nThomas\n\n\nFeb 10, 2025\n\n\nTBD\n\n\nexample-event.ics\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
-    "section": "",
-    "text": "We are a programming cafe based in Amsterdam UMC, part of a larger network of programming cafes.\nJoin us by…"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n      \n        location\n      \n      \n        presenter\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        time\n      \n      \n        File Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nlocation\n\n\n\npresenter\n\n\n\nDate\n\n\n\ntime\n\n\n\nFile Name\n\n\n\n\n\n\n\n\nStory telling with R\n\n\nTurn your data into publication-ready plots that clearly show the story you want to tell.\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nFeb 11, 2026\n\n\n10:00\n\n\n \n\n\n\n\n\n\nSofware security\n\n\nFor a change, this session will move beyond R and focus on software security\n\n\nOnline via Teams\n\n\nJacob Rousseau\n\n\nJan 14, 2026\n\n\n10:00\n\n\n20260114_R_User_Meeting_Software_Security.pptx\n\n\n\n\n\n\nSpecial ChRistmas edition\n\n\nLearn how to make your own Christmas card in R.\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nDec 10, 2025\n\n\n10:00\n\n\nxmas-cards.html\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Amsterdam UMC R user meeting",
+    "title": "R User Meet Amsterdam UMC",
     "section": "",
     "text": "GitHub\n  \n\n      \n Welcome to our AUMC programming cafe. We do some cool stuff here."
   },
   {
     "objectID": "index.html#next-event",
     "href": "index.html#next-event",
-    "title": "Amsterdam UMC R user meeting",
+    "title": "R User Meet Amsterdam UMC",
     "section": " Next event",
-    "text": "Next event\n\n\n\n\n  Everyday Git Part 2 at AUMC\n  Some more tips and tricks for using git.\n  \n            \n                Date: Feb 11, 2026\n            \n            \n                Time: TBD\n            \n            \n            \n                Place: AUMC\n            \n            \n            \n            \n                Presenter: Ferdinand van den Toorn\n            \n            \n            \n            \n                Register: https://eventbrite.com\n            \n            \n  \n  \n        Add to calendar\n  \n\n\n\nNo matching items"
+    "text": "Next event\n\n\n\n\n  Story telling with R\n  Turn your data into publication-ready plots that clearly show the story you want to tell.\n  \n            \n                Date: Feb 11, 2026\n            \n            \n                Time: 10:00\n            \n            \n            \n                Place: Online via Teams\n            \n            \n            \n            \n                Presenter: Merel Postema\n            \n            \n            \n  \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the R User Meet Amsterdam UMC!!\nThis is a programming café that brings together R enthusiasts from across Amsterdam UMC. R users of all levels can learn about a new topic, connect with peers, and ask questions. Meetings are held on the second Wednesday of each month, from 10:00 to 11:00. Whether you’re a beginner or an expert, everyone is welcome!"
   }
 ]
