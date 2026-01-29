@@ -7,3 +7,5 @@ The R User Meet Amsterdam UMC is a programming café where R users of all levels
 Meetings are held on the second Wednesday of each month, from 10:00 to 11:00.
 
 Whether you're a beginner or an expert, everyone is welcome!
+
+Interested in joining? Please contact us via e-mail [here](mailto:rdmtrainingen@amsterdamumc.nl). 
