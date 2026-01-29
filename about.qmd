@@ -2,9 +2,8 @@
 title: About
 ---
 
-<b>Welcome to the R User Meet Amsterdam UMC!</b>!
+The R User Meet Amsterdam UMC is a programming café where R users of all levels can learn about a new topic, connect with peers, and ask questions.
 
-This is a programming café that brings together R enthusiasts from across Amsterdam UMC. 
-R users of all levels can learn about a new topic, connect with peers, and ask questions.
-Meetings are held on the <b>second Wednesday of each month</b>, from 10:00 to 11:00.
+Meetings are held on the second Wednesday of each month, from 10:00 to 11:00.
+
 Whether you're a beginner or an expert, everyone is welcome!
