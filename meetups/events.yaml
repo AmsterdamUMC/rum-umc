@@ -1,17 +1,25 @@
 ## The item at the top will be displayed in the Next Event section
-- title: Everyday Git Part 2 at AUMC
-  description: Some <b>more</b> tips and tricks for using git.
-  location: AUMC
-  presenter: Ferdinand van den Toorn
+- title: Story telling with R
+  description: Turn your data into <b>publication-ready plots</b> that clearly show the story you want to tell. 
+  location: Online via Teams
+  presenter: Merel Postema
   date:  2026-02-11
-  time:  TBD
-  filename: example-event.ics
-  path: "https://eventbrite.com"
-- title: Everyday Git
-  description: Some tips and tricks for using git at AUMC.
-  location: AUMC
-  presenter: Thomas
-  date:  2025-02-10
-  time:  TBD
-  filename: example-event.ics
-  path: "https://eventbrite.com"
+  time:  10:00
+  filename: 
+  path: 
+- title: Sofware security
+  description: For a change, this session will move beyond R and focus on software security
+  location: Online via Teams
+  presenter: Jacob Rousseau
+  date:  2026-01-14
+  time:  10:00
+  filename: 20260114_R_User_Meeting_Software_Security.pptx
+  path: "assets/"
+- title: Special ChRistmas edition
+  description: Learn how to make your own Christmas card in R.
+  location: Online via Teams
+  presenter: Merel Postema
+  date:  2025-12-10
+  time:  10:00
+  filename: xmas-cards.html
+  path: "https://realworlddatascience.net/applied-insights/tutorials/posts/2023/12/12/xmas-cards.html"

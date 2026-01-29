@@ -1,7 +1,10 @@
 ---
-title: about
+title: About
 ---
 
-We are a programming cafe based in Amsterdam UMC, part of a larger [network of programming cafes](https://github.com/code-cafes-nl).
+<b>Welcome to the R User Meet Amsterdam UMC!</b>!
 
-Join us by...
+This is a programming café that brings together R enthusiasts from across Amsterdam UMC. 
+R users of all levels can learn about a new topic, connect with peers, and ask questions.
+Meetings are held on the <b>second Wednesday of each month</b>, from 10:00 to 11:00.
+Whether you're a beginner or an expert, everyone is welcome!

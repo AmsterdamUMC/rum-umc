@@ -1,5 +1,5 @@
 ---
-title: meetups
+title: Meet-ups
 listing: 
   type: table
   contents: events.yaml
