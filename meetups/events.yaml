@@ -13,8 +13,8 @@
   presenter: Jacob Rousseau
   date:  2026-01-14
   time:  10:00
-  filename: 20260114_R_User_Meeting_Software_Security.pptx
-  path: "assets/"
+  filename: "20260114_R_User_Meeting_Software_Security.pptx"
+  path: "/assets/20260114_R_User_Meeting_Software_Security.pptx"
 - title: Special ChRistmas edition
   description: Learn how to make your own Christmas card in R.
   location: Online via Teams
