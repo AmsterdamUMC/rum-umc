@@ -1,12 +1,20 @@
 ## The item at the top will be displayed in the Next Event section
+- title: TBD
+  description: 
+  location: Online via Teams
+  presenter: Merel Postema
+  date:  2026-03-12
+  time:  10:00
+  filename: 
+  path: 
 - title: Story telling with R
   description: Learn how to distinguish storytelling from data visualization and highlight key insights in R plots 
   location: Online via Teams
   presenter: Merel Postema
   date:  2026-02-11
   time:  10:00
-  filename: 
-  path: 
+  filename: story-telling-using-r-202602.pptx
+  path: "assets/"
 - title: Sofware security
   description: For a change, this session will move beyond R and focus on software security
   location: Online via Teams
