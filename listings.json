@@ -1,10 +1,10 @@
 [
   {
-    "listing": "/meetups/index.html",
+    "listing": "/index.html",
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/meetups/index.html",
     "items": []
   }
 ]
