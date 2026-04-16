@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://AmsterdamUMC.github.io/rum-umc/about.html</loc>
-    <lastmod>2026-03-26T11:38:02.131Z</lastmod>
-  </url>
-  <url>
     <loc>https://AmsterdamUMC.github.io/rum-umc/index.html</loc>
-    <lastmod>2026-03-26T11:38:02.144Z</lastmod>
+    <lastmod>2026-04-16T13:54:14.324Z</lastmod>
   </url>
   <url>
     <loc>https://AmsterdamUMC.github.io/rum-umc/meetups/index.html</loc>
-    <lastmod>2026-03-26T11:38:02.144Z</lastmod>
+    <lastmod>2026-04-16T13:54:14.325Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AmsterdamUMC.github.io/rum-umc/about.html</loc>
+    <lastmod>2026-04-16T13:54:14.304Z</lastmod>
   </url>
 </urlset>
