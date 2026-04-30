@@ -1,9 +1,41 @@
 ## The item at the top will be displayed in the Next Event section
-- title: ENCORE
-  description: Learn about ENCORE and how it can enhance reproducibility
+# - title: TBD
+#   description:
+#   location: 
+#   presenter: 
+#   date:  2026-09-10
+#   time: 10:00
+#   filename: 
+#   path: 
+# - title: Summer break
+#   description:
+#   location: 
+#   presenter: 
+#   date:  2026-08-13
+#   time:  
+#   filename: 
+#   path: 
+# - title: Writing reproducible code in R
+#   description: Discover practical ways to improve the reproducibility of your R code
+#   location: Online via Teams
+#   presenter: Merel Postema
+#   date:  2026-07-09
+#   time:  10:00
+#   filename: 
+#   path: 
+# - title: ENCORE
+#   description: Learn about ENCORE and how it can enhance reproducibility
+#   location: Online via Teams
+#   presenter: Anotoine van Kampen
+#   date:  2026-06-11
+#   time:  14:00
+#   filename: 
+#   path: 
+- title: Open Science and reproducibility
+  description: Learn how about open science practices can improve reproducibility
   location: Online via Teams
-  presenter: Anotoine van Kampen
-  date:  2026-05-14
+  presenter: Ayu Dewi
+  date:  2026-05-28
   time:  10:00
   filename: 
   path: 
