@@ -15,30 +15,22 @@
 #   time:  
 #   filename: 
 #   path: 
-# - title: Writing reproducible code in R
-#   description: Discover practical ways to improve the reproducibility of your R code
-#   location: Online via Teams
-#   presenter: Merel Postema
-#   date:  2026-07-09
-#   time:  10:00
-#   filename: 
-#   path: 
-# - title: ENCORE
-#   description: Learn about ENCORE and how it can enhance reproducibility
-#   location: Online via Teams
-#   presenter: Antoine van Kampen
-#   date:  2026-06-11
-#   time:  14:00
-#   filename: 
-#   path: 
+- title: CODECHECK and writing reproducible R code
+  description: Discover practical ways to improve the reproducibility of your R code
+  location: Online via Teams
+  presenter: Merel Postema
+  date:  2026-07-09
+  time:  10:00
+  filename:
+  path:
 - title: Open Science and reproducibility
   description: Learn how open science practices can improve reproducibility
   location: Online via Teams
   presenter: Ayu Dewi
   date:  2026-05-28
   time:  10:00
-  filename: 
-  path: 
+  filename: R-User Meet Open Science and Reproducibility.pdf
+  path: "assets/"
 - title: Using OMOP in R and the OHDSI R packages
   description: A short explanation of what OMOP is, why you would want to use it, and how to generate your own OMOP database in R. Furthermore, we will also discuss the R packages that are available for OMOP databases that cover data quality checks and setting up your own study.
   location: Online via Teams
