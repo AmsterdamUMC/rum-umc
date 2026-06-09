@@ -11,14 +11,7 @@
     "href": "index.html#next-event",
     "title": "R User Meet Amsterdam UMC",
     "section": " Next event",
-    "text": "Next event\n\n\n\n\n  Open Science and reproducibility\n  Learn how about open science practices can improve reproducibility\n  \n            \n                Date: May 28, 2026\n            \n            \n                Time: 10:00\n            \n            \n            \n                Place: Online via Teams\n            \n            \n            \n            \n                Presenter: Ayu Dewi\n            \n            \n            \n  \n  \n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "meetups/index.html",
-    "href": "meetups/index.html",
-    "title": "Meet-ups",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n      \n        location\n      \n      \n        presenter\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        time\n      \n      \n        File Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nlocation\n\n\n\npresenter\n\n\n\nDate\n\n\n\ntime\n\n\n\nFile Name\n\n\n\n\n\n\n\n\nOpen Science and reproducibility\n\n\nLearn how about open science practices can improve reproducibility\n\n\nOnline via Teams\n\n\nAyu Dewi\n\n\nMay 28, 2026\n\n\n10:00\n\n\n \n\n\n\n\n\n\nUsing OMOP in R and the OHDSI R packages\n\n\nA short explanation of what OMOP is, why you would want to use it, and how to generate your own OMOP database in R. Furthermore, we will also discuss the R packages that are available for OMOP databases that cover data quality checks and setting up your own study.\n\n\nOnline via Teams\n\n\nRowdy de Groot\n\n\nApr 9, 2026\n\n\n10:00\n\n\n20260409-rumumc-omop.pptx\n\n\n\n\n\n\nStory telling with R\n\n\nLearn how to distinguish storytelling from data visualization and highlight key insights in R plots\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nFeb 11, 2026\n\n\n10:00\n\n\nstory-telling-using-r-202602.pptx\n\n\n\n\n\n\nSofware security\n\n\nFor a change, this session will move beyond R and focus on software security\n\n\nOnline via Teams\n\n\nJacob Rousseau\n\n\nJan 14, 2026\n\n\n10:00\n\n\n20260114_R_User_Meeting_Software_Security.pptx\n\n\n\n\n\n\nSpecial ChRistmas edition\n\n\nLearn how to make your own Christmas card in R.\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nDec 10, 2025\n\n\n10:00\n\n\nxmas-cards.html\n\n\n\n\n\n\nNo matching items"
+    "text": "Next event\n\n\n\n\n  CODECHECK and writing reproducible R code\n  Discover practical ways to improve the reproducibility of your R code\n  \n            \n                Date: Jul 9, 2026\n            \n            \n                Time: 10:00\n            \n            \n            \n                Place: Online via Teams\n            \n            \n            \n            \n                Presenter: Merel Postema\n            \n            \n            \n  \n  \n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "The R User Meet Amsterdam UMC is a programming café where R users of all levels can learn about a new topic, connect with peers, and ask questions.\nMeetings are held on the second Wednesday of each month, from 10:00 to 11:00.\nWhether you’re a beginner or an expert, everyone is welcome!\nInterested in joining? Please contact us via e-mail here."
+  },
+  {
+    "objectID": "meetups/index.html",
+    "href": "meetups/index.html",
+    "title": "Meet-ups",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n      \n        location\n      \n      \n        presenter\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        time\n      \n      \n        File Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nlocation\n\n\n\npresenter\n\n\n\nDate\n\n\n\ntime\n\n\n\nFile Name\n\n\n\n\n\n\n\n\nCODECHECK and writing reproducible R code\n\n\nDiscover practical ways to improve the reproducibility of your R code\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nJul 9, 2026\n\n\n10:00\n\n\n \n\n\n\n\n\n\nOpen Science and reproducibility\n\n\nLearn how open science practices can improve reproducibility\n\n\nOnline via Teams\n\n\nAyu Dewi\n\n\nMay 28, 2026\n\n\n10:00\n\n\nR-User Meet Open Science and Reproducibility.pdf\n\n\n\n\n\n\nUsing OMOP in R and the OHDSI R packages\n\n\nA short explanation of what OMOP is, why you would want to use it, and how to generate your own OMOP database in R. Furthermore, we will also discuss the R packages that are available for OMOP databases that cover data quality checks and setting up your own study.\n\n\nOnline via Teams\n\n\nRowdy de Groot\n\n\nApr 9, 2026\n\n\n10:00\n\n\n20260409-rumumc-omop.pptx\n\n\n\n\n\n\nStory telling with R\n\n\nLearn how to distinguish storytelling from data visualization and highlight key insights in R plots\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nFeb 11, 2026\n\n\n10:00\n\n\nstory-telling-using-r-202602.pptx\n\n\n\n\n\n\nSofware security\n\n\nFor a change, this session will move beyond R and focus on software security\n\n\nOnline via Teams\n\n\nJacob Rousseau\n\n\nJan 14, 2026\n\n\n10:00\n\n\n20260114_R_User_Meeting_Software_Security.pptx\n\n\n\n\n\n\nSpecial ChRistmas edition\n\n\nLearn how to make your own Christmas card in R.\n\n\nOnline via Teams\n\n\nMerel Postema\n\n\nDec 10, 2025\n\n\n10:00\n\n\nxmas-cards.html\n\n\n\n\n\n\nNo matching items"
   }
 ]
