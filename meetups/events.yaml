@@ -7,14 +7,14 @@
 #   time: 10:00
 #   filename: 
 #   path: 
-# - title: Summer break
-#   description:
-#   location: 
-#   presenter: 
-#   date:  2026-08-13
-#   time:  
-#   filename: 
-#   path: 
+- title: Summer break
+  description:
+  location:
+  presenter:
+  date:  2026-08-13
+  time:
+  filename:
+  path:
 - title: CODECHECK and writing reproducible R code
   description: Discover practical ways to improve the reproducibility of your R code
   location: Online via Teams
