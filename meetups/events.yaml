@@ -21,8 +21,8 @@
   presenter: Merel Postema
   date:  2026-07-09
   time:  10:00
-  filename:
-  path:
+  filename: reproducible-r-code-postema-20260709.pptx
+  path: "assets/"
 - title: Open Science and reproducibility
   description: Learn how open science practices can improve reproducibility
   location: Online via Teams
